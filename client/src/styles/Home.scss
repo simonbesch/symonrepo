@@ -1,0 +1,94 @@
+.Welcome {
+  margin-top: 5em;
+  margin-left: 7em;
+  font-size: 25px;
+}
+.iconeHomeWelcome {
+  width: 20px;
+  height: 20px;
+  margin-right: 2px;
+}
+.iconeHomeSlash {
+  font-weight: 200;
+}
+
+.PorteFolio {
+  display: flex;
+  justify-content: center;
+  text-align: end;
+  width: auto;
+  margin-top: 5em;
+  margin-left: 10em;
+  color: white;
+}
+
+.homeContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  margin-top: 0.5em;
+  color: rgb(180, 247, 247);
+  width: 100%;
+  height: auto;
+}
+
+.FullStack {
+  display: flex;
+  justify-content: end;
+  width: 100%;
+  color: rgb(129, 1, 161);
+  font-size: 15px;
+  margin-bottom: 100px;
+}
+
+.devWeb {
+  color: rgb(174, 0, 255);
+}
+
+.HomeAllContainer {
+  display: flex;
+}
+
+.HomeAllContainer img {
+  width: 100px;
+}
+.buttonHome {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.iconeHomeContainer {
+  margin-top: 25px;
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+
+.iconeContactHome {
+  width: 75px;
+  border-radius: 5px;
+  &:hover {
+    width: 70px;
+    border-radius: 5px;
+  }
+}
+.iconeContactHomeBTN {
+  width: 50px;
+  border-radius: 5px;
+}
+
+.adminSession {
+  color: rgb(255, 22, 22);
+}
+
+.buttonHomeProjet span {
+  display: flex;
+  justify-content: center;
+}
+.buttonHomeProjet span img {
+  margin-left: 5px;
+  margin-right: 5px;
+}
